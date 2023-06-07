@@ -1,5 +1,6 @@
 ### Currently working as a software engineer for Untethered IO
 ### kyle@untethered.biz
+### https://kylekrause3.github.io/
 
 <!--
 **kylekrause3/kylekrause3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
