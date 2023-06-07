@@ -1,4 +1,4 @@
-### Currently working as a software engineer for Untethered IO
+### Currently working as a software engineer for Untethered IO (https://untethered.biz/)
 ### kyle@untethered.biz
 ### https://kylekrause3.github.io/
 
