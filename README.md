@@ -1,4 +1,5 @@
-### Currently working as a software engineer for Untethered IO (https://untethered.biz/)
+### Software engineer for Untethered IO (https://untethered.biz/)
+### Junior software engineer for Next Big Thing LLC (https://www.nbt-studios.com/)
 ### kyle@untethered.biz
 ### https://kylekrause3.github.io/
 
