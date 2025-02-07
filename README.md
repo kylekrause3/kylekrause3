@@ -1,5 +1,6 @@
 ### Software Engineer for Untethered IO (https://untethered.biz/)
 ### Software Engineer for Next Big Thing LLC (https://www.nbt-studios.com/)
+### Software Engineer for Orion (https://www.oriongeo.com/)
 ### kyle@untethered.biz
 ### https://kylekrause3.github.io/
 
