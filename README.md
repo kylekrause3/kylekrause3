@@ -1,7 +1,8 @@
 ### Software Engineer @ Untethered IO (https://untethered.biz/)
 ### Software Engineer @ Next Big Thing LLC (https://www.nbt-studios.com/)
-### Front-end Engineer @ Orion (https://www.oriongeo.com/)
-### kyle@untethered.biz
+### Co-Founder @ Space Warp Software (https://www.space-warp.dev)
+### kkrausebusiness@gmail.com
+### kyle@space-warp.dev
 ### https://kylekrause3.github.io/
 
 <!--
